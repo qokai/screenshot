@@ -1,2 +1,2 @@
 # screenshot
-![Image text](pt/1.png)
+![Image text](screenshot/1.png)
